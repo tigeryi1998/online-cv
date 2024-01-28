@@ -13,7 +13,8 @@ sidebar:
     avatar: Tiger-Yi.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tigeryi@bu.edu and tigeryi@nyu.edu
+    email: tigeryi@bu.edu
+    email: tigeryi@nyu.edu
     phone: +1 646 577 2999
     timezone: US East 
     citizenship:
