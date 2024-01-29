@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: tigeryi@nyu.edu
     phone: +1 646 577 2999
-    timezone: US East (UTC -4)
+    timezone: US East
     citizenship:
     website: www.linkedin.com/in/tigeryi/ #do not add http://
     linkedin: tigeryi
@@ -24,7 +24,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: @tigeryi98 # '@webjeda'
+    twitter: tigeryi98 # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
